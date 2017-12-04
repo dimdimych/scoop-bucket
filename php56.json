@@ -13,8 +13,8 @@
         }
     },
     "bin": [
-        "php56.exe",
-        "php56-cgi.exe"
+        ["php.exe", "php56"],
+        ["php-cgi.exe", "php56-cgi"]
     ],
     "persist": [
         "cli",
