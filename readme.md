@@ -12,4 +12,5 @@ More info at [Scoop - Buckets](https://github.com/lukesampson/scoop/wiki/Buckets
 ## Available packages 
 
 * PHP 56
+* PHP-XDEBUG 56
 
